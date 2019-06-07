@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "0.19.0",
     "dotenv": "^8.0.0",
+    "jsUtils": "git+https://github.com/lancetipton/jsUtils.git",
     "express": "^4.17.1",
     "express-session": "^1.16.1",
     "nodemon": "^1.19.1",
